@@ -1,12 +1,10 @@
 # A11y_bookmarks
-흩어져있는 웹 접근성 관련 국/내외 자료 링크 모음입니다. 웹 접근성을 고민하시는 모든 분들의 프로젝트를 응원합니다:)<br>
-좋은 자료 제공해주시는 모든 원작자, 운영자분들께 감사합니다. 
-
+흩어져있는 웹 접근성 관련 국/내외 자료 링크 모음입니다. 좋은 자료 제공해주시는 모든 원작자, 운영자분들께 감사합니다. 
+<br>
  __Web For All!__ 😀  
 
-
-> a11y : accessibility의 줄임말
-
+__Before reading__
+> a11y : accessibility의 줄임말<br>
 > 쉬운 자료 접근을 위해 중복되는 링크가 있을 수 있습니다. <br>
 > 첨부된 링크들은 좋고, 나쁨으로 평가되어 리스팅한 것이 아닙니다. 본인에게 맞는 자료를 선별하여 보시길 추천드립니다. <br>
 > 웹 접근성이 처음이신 분들은 info에 :seedling: 있는 것들을 우선 참고해보세요.
@@ -48,6 +46,7 @@ __EN__
 | [WAI-ARIA](https://www.w3.org/TR/wai-aria/) | :seedling: |
 | [A11y 교육자료](https://www.w3.org/TR/wai-aria/) |  |
 
+[목차로 이동](#목차)
 
 ## 튜토리얼
 a11y 관련 예제 제공 사이트
@@ -66,6 +65,4 @@ __EN__
 | [MDN WAI-ARIA](https://developer.mozilla.org/ko/docs/Web/Accessibility/ARIA) |  |  |
 | [The A11Y Project Patterns](https://a11yproject.com/patterns/) | The A11Y Project |  |
 
-
-
-[위로가기](#목차)
+[목차로 이동](#목차)
