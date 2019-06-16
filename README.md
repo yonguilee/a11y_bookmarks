@@ -4,11 +4,13 @@
  __Web For All!__ 😀  
 
 __Before reading__
-> a11y : accessibility의 줄임말<br>
-> 쉬운 자료 접근을 위해 중복되는 링크가 있을 수 있습니다. <br>
-> 첨부된 링크들은 좋고, 나쁨으로 평가되어 리스팅한 것이 아닙니다. 본인에게 맞는 자료를 선별하여 보시길 추천드립니다. <br>
-> info에 '유료'라고 적어놓은 것 외에는 다 무료 접근 가능합니다. <br>
-> 웹 접근성이 처음이신 분들은 info에 :seedling: 있는 것들을 우선 참고해보세요.
+
+  1. a11y : accessibility의 줄임말
+  2. 쉬운 자료 접근을 위해 중복되는 링크가 있을 수 있습니다.
+  3. 첨부된 링크들은 좋고, 나쁨으로 평가되어 리스팅한 것이 아닙니다. 본인에게 맞는 자료를 선별하여 보시길 추천드립니다.
+  4. info에 '유료'라고 적어놓은 것 외에는 다 무료 접근 가능합니다.
+  5. 웹 접근성이 처음이신 분들은 info에 :seedling: 있는 것들을 우선 참고해보세요.
+---
 
 ## 목차 
 1. [공식문서](#공식문서)
@@ -56,13 +58,13 @@ a11y 관련 예제 제공 사이트
 __KO__
 
 | Name | Operator | Info |
-| -------- | -------- | --------: |
+| -------- | -------- | -------- |
 | [NULI UI 라이브러리](https://nuli.navercorp.com/sharing/ui/uioLayout) | NTS |  |
 
 __EN__
 
 | Name | Operator | Info |
-| -------- | -------- | --------: |
+| -------- | -------- | -------- |
 | [WCAG tutorials](https://www.w3.org/WAI/tutorials/images/) | W3C |  |
 | [MDN WAI-ARIA](https://developer.mozilla.org/ko/docs/Web/Accessibility/ARIA) | Mozlia |  |
 | [The A11Y Project Patterns](https://a11yproject.com/patterns/) | The A11Y Project |  |
@@ -113,7 +115,7 @@ a11y 관련 커뮤니티
 __KO__
 
 | Name | Operator | Info |
-| -------- | -------- | --------: |
+| -------- | -------- | -------- |
 | [정보접근사용성포럼](https://www.facebook.com/groups/A4UNet/) |  |  |
 | [한국 웹 접근성 그룹](https://www.facebook.com/groups/kwag.net/) |  |  |
 
@@ -126,14 +128,14 @@ a11y 관련 온/오프라인 세미나
 __KO__
 
 | Name | Operator | Info |
-| -------- | -------- | --------: |
+| -------- | -------- | -------- |
 | [NULI 세미나](https://nuli.navercorp.com/sharing/seminar) | NTS |  |
 | [정보접근성 오픈 아카데미 교육](https://www.wah.or.kr:444/board/boardList.asp?brd_sn=2) | 한국정보화진흥원 |  |
 
 __EN__
 
 | Name | Operator | Info |
-| -------- | -------- | --------: |
+| -------- | -------- | -------- |
 | [Accessibility Talks](https://www.youtube.com/channel/UC__nH6oZrFXcUevljYJKbsw/featured) | |  |
 | [Accessibility Fundamentals](https://www.youtube.com/watch?v=z8xUCzToff8&list=PLmD4kjdybbrrWYNSs68rJO2z2gEODMg3X&index=3&t=472s) | Rob Dodson |  |
 | [Debugging Accessibility](https://www.youtube.com/watch?v=B9qzdVcIj5U&feature=youtu.be) | Alice Boxhall |  |
@@ -151,15 +153,15 @@ a11y 관련 출판물( E-Book 포함)
 
 __KO__
 
-| Name | Operator | Info |
-| -------- | -------- | --------: |
-| [모두를 위한 디자인](https://yamoo9.gitbook.io/wcag/) | Yamoo |  |
-| [장애인차별금지법 대응을 위한 웹 접근성과 품질인증](https://book.naver.com/bookdb/book_detail.nhn?bid=7398412) | 류영일, 하성필, 김혜일, 성영한 |  |
+| Name | Author | Info |
+| -------- | -------- | -------- |
+| [모두를 위한 디자인](https://yamoo9.gitbook.io/wcag/) | Yamoo | :seedling: |
+| [장애인차별금지법 대응을 위한 웹 접근성과 품질인증](https://book.naver.com/bookdb/book_detail.nhn?bid=7398412) | 류영일, 하성필, 김혜일, 성영한 | :seedling: |
 
 __EN__
 
-| Name | Operator | Info |
-| -------- | -------- | --------: |
+| Name | Author | Info |
+| -------- | -------- | -------- |
 | [Understanding Web Accessibility](http://uiaccess.com/understanding.html) | Shawn Henry |  |
 | [Just Ask : Integrating Accessibility Throughout Design](https://a11y-style-guide.com/style-guide/) | Shawn Henry |  |
 | [Web Accessibility for Developers](https://pressbooks.library.ryerson.ca/wafd/) | Digital Education Strategies, The Chang School |  |
@@ -173,14 +175,14 @@ a11y 관련 글 위주 블로그
 __KO__
 
 | Name | Operator | Info |
-| -------- | -------- | --------: |
+| -------- | -------- | -------- |
 | [NULI](https://nuli.navercorp.com/sharing/blog/main/3) | NTS |  |
 | [한국웹접근성평가센터](http://www.kwacc.or.kr/Board/DataFile/List) |  |  |
 
 __EN__
 
 | Name | Operator | Info |
-| -------- | -------- | --------: |
+| -------- | -------- | -------- |
 | [Tink](https://tink.uk/category/code-things/) |  |  |
 | [A11yproject](https://a11yproject.com/) |  |  |
 | [Webaim](https://webaim.org/articles/) |  |  |
@@ -199,24 +201,24 @@ a11y 관련 글
 
 __KO__
 
-| Name | Operator | Info |
-| -------- | -------- | --------: |
+| Name | Author | Info |
+| -------- | -------- | -------- |
 | [개발자를 위한 접근성 이야기](https://korea.googleblog.com/2019/04/accessibility-for-developers.html) | Google 한국 블로그 |  |
 
 
 __EN__
 
-| Name | Operator | Info |
-| -------- | -------- | --------: |
-| [A simple introduction to web accessibility](https://www.creativebloq.com/netmag/simple-introduction-web-accessibility-7116888) |  |  |
-| [Getting started with Website Accessibility](https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92) |  |  |
+| Name | Author | Info |
+| -------- | -------- | -------- |
+| [A simple introduction to web accessibility](https://www.creativebloq.com/netmag/simple-introduction-web-accessibility-7116888) | Netmag |  |
+| [Getting started with Website Accessibility](https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92) | Carie Fisher |  |
 
 __번역__
 
-| Name | Operator | Info |
-| -------- | -------- | --------: |
-| [웹접근성을 고려한 HTML 작성하기](https://web-for-all.tistory.com/3) |  |  |
-| [웹접근성을 고려한 CSS 작성하기](https://web-for-all.tistory.com/2) |  |  |
+| Name | Author | Info |
+| -------- | -------- | -------- |
+| [웹접근성을 고려한 HTML 작성하기](https://web-for-all.tistory.com/3) | Manuel Matuzovic |  |
+| [웹접근성을 고려한 CSS 작성하기](https://web-for-all.tistory.com/2) | Manuel Matuzovic |  |
 
 [목차로 이동](#목차)
 
