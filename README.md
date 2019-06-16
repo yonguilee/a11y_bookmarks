@@ -54,13 +54,13 @@ a11y 관련 예제 제공 사이트
 __KO__
 
 | Name | Operator | Info |
-| -------- | :--------: | --------: |
+| -------- | -------- | --------: |
 | [NULI UI 라이브러리](https://nuli.navercorp.com/sharing/ui/uioLayout) | NTS |  |
 
 __EN__
 
 | Name | Operator | Info |
-| -------- | :--------: | --------: |
+| -------- | -------- | --------: |
 | [WCAG tutorials](https://www.w3.org/WAI/tutorials/images/) | W3C |  |
 | [MDN WAI-ARIA](https://developer.mozilla.org/ko/docs/Web/Accessibility/ARIA) | Mozlia |  |
 | [The A11Y Project Patterns](https://a11yproject.com/patterns/) | The A11Y Project |  |
@@ -75,7 +75,7 @@ a11y 관련 이론과 실습 강좌
 __KO__
 
 | Name | Operator | Info |
-| -------- | :--------: | :--------: |
+| -------- | -------- | :--------: |
 | [웹 UI개발- 웹 접근성의 이해](https://www.edwith.org/boostcourse-ui/joinLectures/19154) | 커넥트재단 edwith | :seedling: |
 | [웹접근성 기초]( https://www.youtube.com/watch?v=OwxZbJwtYDM&list=PL_6yF2upGJYs6IzIl9UiCt12eIM17k2Xe) | 리베하얀 | :seedling: |
 | [웹접근성의 이해-기본](https://www.edwith.org/boostcourse-ui/joinLectures/19154) | 한국정보화진흥원 배움나라 | :seedling: |
@@ -89,16 +89,16 @@ __KO__
 __EN__
 
 | Name | Operator | Info |
-| -------- | :--------: | -------- |
-| [Web Accessibility](https://eu.udacity.com/course/web-accessibility--ud891) | Google | a11y 이론 & 실습 |
-| [Starting Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today) | Marcy Sutton | a11y 이론 & 실습 |
-| [Web Accessibility Compliance](https://teamtreehouse.com/library/web-accessibility-compliance) | Aisha Blake | a11y 이론 & 실습 |
-| [Introduction to Web Accessibility](https://www.classcentral.com/course/canvas-network-introduction-to-web-accessibility-13329) | Ryerson University and Chang School of Continuing Education | WCAG 2.1 |
-| [Digital Accessibility : Enabling Participation in the Information Society](https://www.classcentral.com/course/futurelearn-digital-accessibility-enabling-participation-in-the-information-society-7127) | University of Southampton | a11y 이론 & 실습 |
-| [Accessibility]( https://www.youtube.com/watch?v=o4xHfi4t9S0&list=PLWjCJDeWfDdcEtSnqq_iGLKGA_H_3o3y7) | Thomas Bradley | a11y 실습 |
-| [A11y cast](https://eu.udacity.com/course/web-accessibility--ud891) | Google Chrome Developer | a11y 실습 |
-| [Further Accessibility Learning](https://www.youtube.com/watch?v=nEjTbZXYY48&list=PLNYkxOF6rcIDJlkmUY8qoSV7PKSoBEEvp) | Google Chrome Developer | a11y관련 토픽 |
-| [Web Accessibility for Developers](https://www.classcentral.com/course/canvas-network-web-accessibility-for-developers-11887) | Ryerson University and Chang School of Continuing Education | 개발관련 WAI-ARIA 사용방법 |
+| -------- | -------- | -------- |
+| [Web Accessibility](https://eu.udacity.com/course/web-accessibility--ud891) | Google |  |
+| [Starting Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today) | Marcy Sutton |  |
+| [Web Accessibility Compliance](https://teamtreehouse.com/library/web-accessibility-compliance) | Aisha Blake |  |
+| [Introduction to Web Accessibility](https://www.classcentral.com/course/canvas-network-introduction-to-web-accessibility-13329) | Ryerson University and Chang School of Continuing Education |  |
+| [Digital Accessibility : Enabling Participation in the Information Society](https://www.classcentral.com/course/futurelearn-digital-accessibility-enabling-participation-in-the-information-society-7127) | University of Southampton |  |
+| [Accessibility]( https://www.youtube.com/watch?v=o4xHfi4t9S0&list=PLWjCJDeWfDdcEtSnqq_iGLKGA_H_3o3y7) | Thomas Bradley |  |
+| [A11y cast](https://eu.udacity.com/course/web-accessibility--ud891) | Google Chrome Developer |  |
+| [Further Accessibility Learning](https://www.youtube.com/watch?v=nEjTbZXYY48&list=PLNYkxOF6rcIDJlkmUY8qoSV7PKSoBEEvp) | Google Chrome Developer |  |
+| [Web Accessibility for Developers](https://www.classcentral.com/course/canvas-network-web-accessibility-for-developers-11887) | Ryerson University and Chang School of Continuing Education |  |
 | [Web Accessibility](https://dequeuniversity.com/curriculum/online-classes/) | Duque University | 유료 |
 | [Web Accessibility](https://dequeuniversity.com/curriculum/online-classes/) | Google | 텍스트 ver. |
 
