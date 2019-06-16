@@ -85,11 +85,12 @@ __KO__
 | [웹 접근성이란](https://www.wah.or.kr:444/Accessibility/define.asp) | 한국웹접근성연구소 | 텍스트 ver. |
 | [웹 접근성의 이해](https://nuli.navercorp.com/sharing/a11y/awareness) | NTS NULI | 텍스트 ver. |
 | [Accessibility](http://darum.daum.net/accessibility/intro) | Daum | 텍스트 ver. |
+| [Web Accessibility](https://developers.google.com/web/fundamentals/accessibility/?hl=ko) | Google | 텍스트 ver. |
 
 __EN__
 
 | Name | Operator | Info |
-| -------- | -------- | -------- |
+| -------- | -------- | :--------: |
 | [Web Accessibility](https://eu.udacity.com/course/web-accessibility--ud891) | Google |  |
 | [Starting Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today) | Marcy Sutton |  |
 | [Web Accessibility Compliance](https://teamtreehouse.com/library/web-accessibility-compliance) | Aisha Blake |  |
@@ -100,6 +101,45 @@ __EN__
 | [Further Accessibility Learning](https://www.youtube.com/watch?v=nEjTbZXYY48&list=PLNYkxOF6rcIDJlkmUY8qoSV7PKSoBEEvp) | Google Chrome Developer |  |
 | [Web Accessibility for Developers](https://www.classcentral.com/course/canvas-network-web-accessibility-for-developers-11887) | Ryerson University and Chang School of Continuing Education |  |
 | [Web Accessibility](https://dequeuniversity.com/curriculum/online-classes/) | Duque University | 유료 |
-| [Web Accessibility](https://dequeuniversity.com/curriculum/online-classes/) | Google | 텍스트 ver. |
+
+
+[목차로 이동](#목차)
+
+## 커뮤니티
+a11y 관련 커뮤니티
+
+__KO__
+
+| Name | Operator | Info |
+| -------- | -------- | --------: |
+| [정보접근사용성포럼](https://www.facebook.com/groups/A4UNet/) |  |  |
+| [한국 웹 접근성 그룹](https://www.facebook.com/groups/kwag.net/) |  |  |
+
+[목차로 이동](#목차)
+
+
+## 세미나
+a11y 관련 온/오프라인 세미나
+
+__KO__
+
+| Name | Operator | Info |
+| -------- | -------- | --------: |
+| [NULI 세미나](https://nuli.navercorp.com/sharing/seminar) | NTS |  |
+| [정보접근성 오픈 아카데미 교육](https://www.wah.or.kr:444/board/boardList.asp?brd_sn=2) | 한국정보화진흥원 |  |
+
+__EN__
+
+| Name | Operator | Info |
+| -------- | -------- | --------: |
+| [Accessibility Talks]( https://www.youtube.com/channel/UC__nH6oZrFXcUevljYJKbsw/featured) | |  |
+| [Accessibility Fundamentals](https://www.youtube.com/watch?v=z8xUCzToff8&list=PLmD4kjdybbrrWYNSs68rJO2z2gEODMg3X&index=3&t=472s) | Rob Dodson |  |
+| [Debugging Accessibility](https://www.youtube.com/watch?v=B9qzdVcIj5U&feature=youtu.be) | Alice Boxhall |  |
+| [How to be an a11y - Creating Accessible React Apps](https://www.youtube.com/watch?v=u-5_x_YnVN0&list=PLmD4kjdybbrrWYNSs68rJO2z2gEODMg3X&index=12&t=0s) | Neha Nivedita |  |
+| [Lost in Space : Web Apps and A11Y](https://www.youtube.com/watch?v=b0EhpIQ9F_c&list=PLmD4kjdybbrrWYNSs68rJO2z2gEODMg3X&index=13&t=0s) | Vitalii Bobrov |  |
+| [A11y with Polymer(The Polymer Submmit 2015)](https://www.youtube.com/watch?v=b0EhpIQ9F_c&list=PLmD4kjdybbrrWYNSs68rJO2z2gEODMg3X&index=13&t=0s) | Google Chrome Developer |  |
+| [Accessibility at Google I/O 2019](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIOSO0eWuj-6yQmdakarUzN) | Google Developer |  |
+| [A11y talks](https://marcysutton.com/talks/) | Mercy Sutton |  |
+| [Accessibility at Developer Events](https://www.youtube.com/watch?v=wkvslBGkhZY&list=PLNYkxOF6rcIBiiuN53rzwEidPcLZRtiOW) | Google Chrome Developer |  |
 
 [목차로 이동](#목차)
