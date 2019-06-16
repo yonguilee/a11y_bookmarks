@@ -48,7 +48,7 @@ __EN__
 | [WCAG 2.0](https://www.w3.org/TR/WCAG20/) |  |
 | [WCAG 2.1](https://www.w3.org/TR/WCAG21/) | :seedling: |
 | [WAI-ARIA](https://www.w3.org/TR/wai-aria/) | :seedling: |
-| [A11y 교육자료](https://www.w3.org/TR/wai-aria/) |  |
+| [A11y 교육자료](https://www.w3.org/WAI/teach-advocate/accessibility-training/) |  |
 
 [목차로 이동](#목차)
 
@@ -68,7 +68,7 @@ __EN__
 | [WCAG tutorials](https://www.w3.org/WAI/tutorials/images/) | W3C |  |
 | [MDN WAI-ARIA](https://developer.mozilla.org/ko/docs/Web/Accessibility/ARIA) | Mozlia |  |
 | [The A11Y Project Patterns](https://a11yproject.com/patterns/) | The A11Y Project |  |
-| [WAI-ARIA tutoria](http://heydonworks.com/practical_aria_examples/) | Heydonworks |  |
+| [WAI-ARIA tutorial](http://heydonworks.com/practical_aria_examples/) | Heydonworks |  |
 
 
 [목차로 이동](#목차)
@@ -82,7 +82,7 @@ __KO__
 | -------- | -------- | :--------: |
 | [웹 UI개발- 웹 접근성의 이해](https://www.edwith.org/boostcourse-ui/joinLectures/19154) | 커넥트재단 edwith | :seedling: |
 | [웹접근성 기초]( https://www.youtube.com/watch?v=OwxZbJwtYDM&list=PL_6yF2upGJYs6IzIl9UiCt12eIM17k2Xe) | 리베하얀 | :seedling: |
-| [웹접근성의 이해-기본](https://www.edwith.org/boostcourse-ui/joinLectures/19154) | 한국정보화진흥원 배움나라 | :seedling: |
+| [웹접근성의 이해-기본](http://www.estudy.or.kr/estudy2.0/kor/classroom/classroom_list.asp?MenuCode=M2010121519285200000&mPageFlag=view&mTabFlag=&lectermId=20220151206&mViewTabFlag=01) | 한국정보화진흥원 배움나라 | :seedling: |
 | [웹접근성의 이해-심화](http://www.estudy.or.kr/estudy2.0/kor/classroom/classroom_list.asp?MenuCode=M2010121519285200000&mPageFlag=view&mTabFlag=&lectermId=20220151207) | 한국정보화진흥원 배움나라 |  |
 | [WCAG 2.1 가이드]( https://www.youtube.com/watch?v=_OR6D9L7sgY&list=PLtaz5vK7MbK1bAGhAFkidBzIRVrNqVo5j) | AOA |  |
 | [웹접근성 자가진단](https://www.youtube.com/watch?v=S2bxrT7wvSk&list=PL_6yF2upGJYuaMxwPJHnbkrY1m0aeLTkB) | 리베하얀 |  |
@@ -101,7 +101,7 @@ __EN__
 | [Introduction to Web Accessibility](https://www.classcentral.com/course/canvas-network-introduction-to-web-accessibility-13329) | Ryerson University and Chang School of Continuing Education |  |
 | [Digital Accessibility : Enabling Participation in the Information Society](https://www.classcentral.com/course/futurelearn-digital-accessibility-enabling-participation-in-the-information-society-7127) | University of Southampton |  |
 | [Accessibility]( https://www.youtube.com/watch?v=o4xHfi4t9S0&list=PLWjCJDeWfDdcEtSnqq_iGLKGA_H_3o3y7) | Thomas Bradley |  |
-| [A11y cast](https://eu.udacity.com/course/web-accessibility--ud891) | Google Chrome Developer |  |
+| [A11y cast]( https://www.youtube.com/watch?v=Ag3DMNbL_ig&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) | Google Chrome Developer |  |
 | [Further Accessibility Learning](https://www.youtube.com/watch?v=nEjTbZXYY48&list=PLNYkxOF6rcIDJlkmUY8qoSV7PKSoBEEvp) | Google Chrome Developer |  |
 | [Web Accessibility for Developers](https://www.classcentral.com/course/canvas-network-web-accessibility-for-developers-11887) | Ryerson University and Chang School of Continuing Education |  |
 | [Web Accessibility](https://dequeuniversity.com/curriculum/online-classes/) | Duque University | 유료 |
@@ -136,15 +136,15 @@ __EN__
 
 | Name | Operator | Info |
 | -------- | -------- | -------- |
-| [Accessibility Talks](https://www.youtube.com/channel/UC__nH6oZrFXcUevljYJKbsw/featured) | |  |
+| [Accessibility Talks Playlist](https://www.youtube.com/channel/UC__nH6oZrFXcUevljYJKbsw/featured) | |  |
 | [Accessibility Fundamentals](https://www.youtube.com/watch?v=z8xUCzToff8&list=PLmD4kjdybbrrWYNSs68rJO2z2gEODMg3X&index=3&t=472s) | Rob Dodson |  |
 | [Debugging Accessibility](https://www.youtube.com/watch?v=B9qzdVcIj5U&feature=youtu.be) | Alice Boxhall |  |
 | [How to be an a11y - Creating Accessible React Apps](https://www.youtube.com/watch?v=u-5_x_YnVN0&list=PLmD4kjdybbrrWYNSs68rJO2z2gEODMg3X&index=12&t=0s) | Neha Nivedita |  |
 | [Lost in Space : Web Apps and A11Y](https://www.youtube.com/watch?v=b0EhpIQ9F_c&list=PLmD4kjdybbrrWYNSs68rJO2z2gEODMg3X&index=13&t=0s) | Vitalii Bobrov |  |
-| [A11y with Polymer(The Polymer Submmit 2015)](https://www.youtube.com/watch?v=b0EhpIQ9F_c&list=PLmD4kjdybbrrWYNSs68rJO2z2gEODMg3X&index=13&t=0s) | Google Chrome Developer |  |
-| [Accessibility at Google I/O 2019](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIOSO0eWuj-6yQmdakarUzN) | Google Developer |  |
-| [A11y talks](https://marcysutton.com/talks/) | Mercy Sutton |  |
-| [Accessibility at Developer Events](https://www.youtube.com/watch?v=wkvslBGkhZY&list=PLNYkxOF6rcIBiiuN53rzwEidPcLZRtiOW) | Google Chrome Developer |  |
+| [A11y with Polymer(The Polymer Submmit 2015)](https://www.youtube.com/watch?v=o6yLWihykVA&list=PLmD4kjdybbrrWYNSs68rJO2z2gEODMg3X&index=14) | Google Chrome Developer |  |
+| [Accessibility at Google I/O 2019 Playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIOSO0eWuj-6yQmdakarUzN) | Google Developer |  |
+| [A11y talks Playlist](https://marcysutton.com/talks/) | Mercy Sutton |  |
+| [Accessibility at Developer Events Playlist](https://www.youtube.com/watch?v=wkvslBGkhZY&list=PLNYkxOF6rcIBiiuN53rzwEidPcLZRtiOW) | Google Chrome Developer |  |
 
 [목차로 이동](#목차)
 
@@ -163,7 +163,7 @@ __EN__
 | Name | Author | Info |
 | -------- | -------- | -------- |
 | [Understanding Web Accessibility](http://uiaccess.com/understanding.html) | Shawn Henry |  |
-| [Just Ask : Integrating Accessibility Throughout Design](https://a11y-style-guide.com/style-guide/) | Shawn Henry |  |
+| [Just Ask : Integrating Accessibility Throughout Design](http://uiaccess.com/accessucd/) | Shawn Henry |  |
 | [Web Accessibility for Developers](https://pressbooks.library.ryerson.ca/wafd/) | Digital Education Strategies, The Chang School |  |
 | [Professional Web Accessibility Auditing Made Easy](https://pressbooks.library.ryerson.ca/pwaa/) | Digital Education Strategies, The Chang School |  |
 
@@ -183,15 +183,16 @@ __EN__
 
 | Name | Operator | Info |
 | -------- | -------- | -------- |
-| [Tink](https://tink.uk/category/code-things/) |  |  |
+| [Tink](https://tink.uk/category/code-things/) | LÉONIE WATSON |  |
 | [A11yproject](https://a11yproject.com/) |  |  |
-| [Webaim](https://webaim.org/articles/) |  |  |
-| [Accessible Web Design](https://www.joedolson.com/blog/) |  |  |
+| [WebAIM](https://webaim.org/articles/) | Center for Persons with Disabilities
+Utah State University |  |
+| [Accessible Web Design](https://www.joedolson.com/blog/) | JOSEPH DOLSON |  |
 | [Digital A11Y](https://www.digitala11y.com/acccessibility-archives/) |  |  |
 | [Levelaccess](https://www.levelaccess.com/category/accessibility-best-practices/) |  |  |
-| [UiAccess](http://www.uiaccess.com/resources.html) |  |  |
-| [Uxcatlady](http://uxcatlady.com/inclusive_design.html) |  | 페이지 하단 RESOURCE LIST 참고 |
-| [Fishyux](https://www.fishyux.com/tag/accessibility/) |  |  |
+| [UiAccess](http://www.uiaccess.com/resources.html) | Shawn Lawton Henry |  |
+| [Uxcatlady](http://uxcatlady.com/inclusive_design.html) | UX Cat Lady | 페이지 하단 RESOURCE LIST 참고 |
+| [Fishyux](https://www.fishyux.com/tag/accessibility/) | Rachele DiTullio |  |
 | [IAAP](https://www.accessibilityassociation.org/content.asp?contentid=347) |  |  |
 
 [목차로 이동](#목차)
