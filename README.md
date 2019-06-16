@@ -7,6 +7,7 @@ __Before reading__
 > a11y : accessibility의 줄임말<br>
 > 쉬운 자료 접근을 위해 중복되는 링크가 있을 수 있습니다. <br>
 > 첨부된 링크들은 좋고, 나쁨으로 평가되어 리스팅한 것이 아닙니다. 본인에게 맞는 자료를 선별하여 보시길 추천드립니다. <br>
+> info에 '유료'라고 적어놓은 것 외에는 다 무료 접근 가능합니다. <br>
 > 웹 접근성이 처음이신 분들은 info에 :seedling: 있는 것들을 우선 참고해보세요.
 
 ## 목차 
@@ -15,14 +16,15 @@ __Before reading__
 3. [온라인강좌](#온라인강좌)
 4. [커뮤니티](#커뮤니티)
 5. [세미나](#세미나)
-6. [발표자료](#발표자료)
-7. [이북](#이북)
-8. [블로그](#블로그)
-9. [아티클](#아티클)
-10. [가이드라인](#가이드라인)
-11. [트위터](#트위터)
-12. [뉴스레터](#뉴스레터)
-13. [장애관련](#장애관련)
+6. [출판물](#이북)
+7. [블로그](#블로그)
+8. [아티클](#아티클)
+9. [가이드라인](#가이드라인)
+10. [평가도구](#평가도구)
+11. [뉴스레터](#뉴스레터)
+12. [트위터](#트위터)
+13. [장애](#장애)
+14. [etc](#etc)
 
 ## 공식문서
 W3C 공식문서 관련 링크
@@ -132,7 +134,7 @@ __EN__
 
 | Name | Operator | Info |
 | -------- | -------- | --------: |
-| [Accessibility Talks]( https://www.youtube.com/channel/UC__nH6oZrFXcUevljYJKbsw/featured) | |  |
+| [Accessibility Talks](https://www.youtube.com/channel/UC__nH6oZrFXcUevljYJKbsw/featured) | |  |
 | [Accessibility Fundamentals](https://www.youtube.com/watch?v=z8xUCzToff8&list=PLmD4kjdybbrrWYNSs68rJO2z2gEODMg3X&index=3&t=472s) | Rob Dodson |  |
 | [Debugging Accessibility](https://www.youtube.com/watch?v=B9qzdVcIj5U&feature=youtu.be) | Alice Boxhall |  |
 | [How to be an a11y - Creating Accessible React Apps](https://www.youtube.com/watch?v=u-5_x_YnVN0&list=PLmD4kjdybbrrWYNSs68rJO2z2gEODMg3X&index=12&t=0s) | Neha Nivedita |  |
@@ -141,5 +143,173 @@ __EN__
 | [Accessibility at Google I/O 2019](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIOSO0eWuj-6yQmdakarUzN) | Google Developer |  |
 | [A11y talks](https://marcysutton.com/talks/) | Mercy Sutton |  |
 | [Accessibility at Developer Events](https://www.youtube.com/watch?v=wkvslBGkhZY&list=PLNYkxOF6rcIBiiuN53rzwEidPcLZRtiOW) | Google Chrome Developer |  |
+
+[목차로 이동](#목차)
+
+## 출판물
+a11y 관련 출판물( E-Book 포함)
+
+__KO__
+
+| Name | Operator | Info |
+| -------- | -------- | --------: |
+| [모두를 위한 디자인](https://yamoo9.gitbook.io/wcag/) | Yamoo |  |
+| [장애인차별금지법 대응을 위한 웹 접근성과 품질인증](https://book.naver.com/bookdb/book_detail.nhn?bid=7398412) | 류영일, 하성필, 김혜일, 성영한 |  |
+
+__EN__
+
+| Name | Operator | Info |
+| -------- | -------- | --------: |
+| [Understanding Web Accessibility](http://uiaccess.com/understanding.html) | Shawn Henry |  |
+| [Just Ask : Integrating Accessibility Throughout Design](https://a11y-style-guide.com/style-guide/) | Shawn Henry |  |
+| [Web Accessibility for Developers](https://pressbooks.library.ryerson.ca/wafd/) | Digital Education Strategies, The Chang School |  |
+| [Professional Web Accessibility Auditing Made Easy](https://pressbooks.library.ryerson.ca/pwaa/) | Digital Education Strategies, The Chang School |  |
+
+[목차로 이동](#목차)
+
+## 블로그
+a11y 관련 글 위주 블로그
+
+__KO__
+
+| Name | Operator | Info |
+| -------- | -------- | --------: |
+| [NULI](https://nuli.navercorp.com/sharing/blog/main/3) | NTS |  |
+| [한국웹접근성평가센터](http://www.kwacc.or.kr/Board/DataFile/List) |  |  |
+
+__EN__
+
+| Name | Operator | Info |
+| -------- | -------- | --------: |
+| [Tink](https://tink.uk/category/code-things/) |  |  |
+| [A11yproject](https://a11yproject.com/) |  |  |
+| [Webaim](https://webaim.org/articles/) |  |  |
+| [Accessible Web Design](https://www.joedolson.com/blog/) |  |  |
+| [Digital A11Y](https://www.digitala11y.com/acccessibility-archives/) |  |  |
+| [Levelaccess](https://www.levelaccess.com/category/accessibility-best-practices/) |  |  |
+| [UiAccess](http://www.uiaccess.com/resources.html) |  |  |
+| [Uxcatlady](http://uxcatlady.com/inclusive_design.html) |  | 페이지 하단 RESOURCE LIST 참고 |
+| [Fishyux](https://www.fishyux.com/tag/accessibility/) |  |  |
+| [IAAP](https://www.accessibilityassociation.org/content.asp?contentid=347) |  |  |
+
+[목차로 이동](#목차)
+
+## 아티클
+a11y 관련 글
+
+__KO__
+
+| Name | Operator | Info |
+| -------- | -------- | --------: |
+| [개발자를 위한 접근성 이야기](https://korea.googleblog.com/2019/04/accessibility-for-developers.html) | Google 한국 블로그 |  |
+
+
+__EN__
+
+| Name | Operator | Info |
+| -------- | -------- | --------: |
+| [A simple introduction to web accessibility](https://www.creativebloq.com/netmag/simple-introduction-web-accessibility-7116888) |  |  |
+| [Getting started with Website Accessibility](https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92) |  |  |
+
+__번역__
+
+| Name | Operator | Info |
+| -------- | -------- | --------: |
+| [웹접근성을 고려한 HTML 작성하기](https://web-for-all.tistory.com/3) |  |  |
+| [웹접근성을 고려한 CSS 작성하기](https://web-for-all.tistory.com/2) |  |  |
+
+[목차로 이동](#목차)
+
+## 가이드라인
+기업에서 제공하는 a11y 가이드라인
+
+__KO__
+
+| Name | Info |
+| -------- | -------- |
+| [NHN WCAG 1.0](https://nuli.navercorp.com/sharing/a11y/nwcag) |  |
+| [Daum 코딩 컨벤션](http://darum.daum.net/convention/html/html_convention) |  |
+| [레진 코믹스](https://github.com/lezhin/accessibility) |  |
+| [롯데마트](https://github.com/LotteWac/LotteWac.github.io) |  |
+
+__EN__
+
+| Name | Info |
+| -------- | -------- |
+| [Ebay](http://ebay.github.io/mindpatterns/) |  |
+| [Google](https://www.google.com/accessibility/for-developers/) |  |
+| [Google Chrome](https://developer.chrome.com/apps/a11y#controls) |  |
+| [The Chromium Projects](https://www.chromium.org/developers/design-documents/accessibility#TOC-WAI-ARIA-Support) |  |
+
+[목차로 이동](#목차)
+
+## 평가도구
+a11y 평가도구
+
+__KO__
+
+| Name | Info |
+| -------- | -------- |
+| [웹 접근성 평가도구 소개](https://www.wah.or.kr:444/Participation/online-wah.asp) |  |
+
+[목차로 이동](#목차)
+
+## 뉴스레터
+a11y 관련 이슈 공유해주는 뉴스레터 
+
+__EN__
+
+| Name | Info |
+| -------- | -------- |
+| [A11yWeekly](https://a11yweekly.com/) |  |
+| [AbilityNet](https://abilitynet.org.uk/sign-up-for-our-newsletter) |  |
+| [WebAIM](https://webaim.org/newsletter/) |  |
+| [IAAP](https://www.accessibilityassociation.org/content.asp?contentid=167) |  |
+
+[목차로 이동](#목차)
+
+## 트위터
+a11y 관련 트위터 계정 
+
+__EN__
+
+| Name | Info |
+| -------- | -------- |
+| [@mmatuzo](https://twitter.com/mmatuzo) |  |
+| [@w3c_wai](https://twitter.com/w3c_wai) |  |
+| [@rob_dodson](https://twitter.com/rob_dodson) |  |
+| [@fbaccess](https://twitter.com/fbaccess) |  |
+| [@googleaccess](https://twitter.com/googleaccess) |  |
+| [@MSFTEnable](https://twitter.com/MSFTEnable) |  |
+| [@TwitterA11y](https://twitter.com/TwitterA11y) |  |
+| [@alastc](https://twitter.com/alastc) |  |
+| [@BOEmedia](https://twitter.com/BOEmedia) |  |
+| [@HugoGiraudel](https://twitter.com/HugoGiraudel) |  |
+| [@AaronGustafson](https://twitter.com/AaronGustafson) |  |
+| [@heydonworks](https://twitter.com/heydonworks) |  |
+
+
+## 장애
+장애 관련 자료
+
+| Name | Info |
+| -------- | -------- |
+| [WHO세계장애보고서 영문](https://www.who.int/disabilities/world_report/2011/en/) |  |
+| [WHO세계장애보고서 국문](https://apps.who.int/iris/bitstream/handle/10665/44575/9788990987150_kor.pdf;jsessionid=7135023BBD0F6550479787E85DB27789?sequence=5) |  |
+| [한국장애인개발원](https://www.koddi.or.kr/data/news.jsp) |  |
+| [비마이너](http://beminor.com/) |  |
+| [2018 장애인통계연보]( https://www.koddi.or.kr/data/research01_view.jsp?brdNum=7406583&brdTp=&searchParamUrl=brdType%3DRSH%26amp%3BbrdRshYnData%3Ddata%26amp%3Bpage%3D1%26amp%3BpageSize%3D20) |  |
+
+[목차로 이동](#목차)
+
+
+
+## etc
+
+| Name | Info |
+| -------- | -------- |
+| [HTML Validator](https://validator.w3.org/) |  |
+| [CSS Validator](https://jigsaw.w3.org/css-validator/validator.html.en) |  |
+| [a11y 관련 QnA](https://www.wah.or.kr:444/Participation/consulting.asp) | 한국웹접근성연구소 |
 
 [목차로 이동](#목차)
