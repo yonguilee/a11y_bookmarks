@@ -53,16 +53,43 @@ a11y 관련 예제 제공 사이트
 
 __KO__
 
-| Name | Author | Info |
+| Name | Operator | Info |
 | -------- | :--------: | --------: |
 | [NULI UI 라이브러리](https://nuli.navercorp.com/sharing/ui/uioLayout) | NTS |  |
 
 __EN__
 
-| Name | Author | Info |
+| Name | Operator | Info |
 | -------- | :--------: | --------: |
 | [WCAG tutorials](https://www.w3.org/WAI/tutorials/images/) | W3C |  |
-| [MDN WAI-ARIA](https://developer.mozilla.org/ko/docs/Web/Accessibility/ARIA) |  |  |
+| [MDN WAI-ARIA](https://developer.mozilla.org/ko/docs/Web/Accessibility/ARIA) | Mozlia |  |
+| [The A11Y Project Patterns](https://a11yproject.com/patterns/) | The A11Y Project |  |
+
+[목차로 이동](#목차)
+
+## 온라인강좌
+a11y 관련 이론과 실습 강좌
+
+__KO__
+
+| Name | Operator | Info |
+| -------- | :--------: | :--------: |
+| [웹 UI개발- 웹 접근성의 이해](https://www.edwith.org/boostcourse-ui/joinLectures/19154) | 커넥트재단 edwith | :seedling: |
+| [웹접근성 기초]( https://www.youtube.com/watch?v=OwxZbJwtYDM&list=PL_6yF2upGJYs6IzIl9UiCt12eIM17k2Xe) | 리베하얀 | :seedling: |
+| [웹접근성의 이해-기본](https://www.edwith.org/boostcourse-ui/joinLectures/19154) | 한국정보화진흥원 배움나라 | :seedling: |
+| [웹접근성의 이해-심화](http://www.estudy.or.kr/estudy2.0/kor/classroom/classroom_list.asp?MenuCode=M2010121519285200000&mPageFlag=view&mTabFlag=&lectermId=20220151207) | 한국정보화진흥원 배움나라 |  |
+| [WCAG 2.1 가이드]( https://www.youtube.com/watch?v=_OR6D9L7sgY&list=PLtaz5vK7MbK1bAGhAFkidBzIRVrNqVo5j) | AOA |  |
+| [웹접근성 자가진단](https://www.youtube.com/watch?v=S2bxrT7wvSk&list=PL_6yF2upGJYuaMxwPJHnbkrY1m0aeLTkB) | 리베하얀 |  |
+| [웹 접근성이란](https://www.wah.or.kr:444/Accessibility/define.asp) | 한국웹접근성연구소 | 텍스트 ver. |
+| [웹 접근성의 이해](https://nuli.navercorp.com/sharing/a11y/awareness) | NTS NULI | 텍스트 ver. |
+| [Accessibility](http://darum.daum.net/accessibility/intro) | Daum | 텍스트 ver. |
+
+__EN__
+
+| Name | Operator | Info |
+| -------- | :--------: | :--------: |
+| [Web Accessibility](https://eu.udacity.com/course/web-accessibility--ud891) | Google |  |
+| [MDN WAI-ARIA](https://developer.mozilla.org/ko/docs/Web/Accessibility/ARIA) | Mozlia |  |
 | [The A11Y Project Patterns](https://a11yproject.com/patterns/) | The A11Y Project |  |
 
 [목차로 이동](#목차)
