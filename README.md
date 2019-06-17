@@ -213,6 +213,9 @@ __EN__
 | -------- | -------- | -------- |
 | [A simple introduction to web accessibility](https://www.creativebloq.com/netmag/simple-introduction-web-accessibility-7116888) | Netmag |  |
 | [Getting started with Website Accessibility](https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92) | Carie Fisher |  |
+| [Scaling Accessibility through LinkedIn Engineering's A11y Champions Program](https://engineering.linkedin.com/blog/2019/05/scaling-accessibility-through-a11y-champions-program) | Jennison Asuncion |  |
+| [Reflections on LinkedIn’s Accessibility Journey in 2018](https://www.linkedin.com/pulse/reflections-linkedins-accessibility-journey-2018-jennison-asuncion/) | Jennison Asuncion |  |
+
 
 __번역__
 
@@ -243,6 +246,7 @@ __EN__
 | [Google](https://www.google.com/accessibility/for-developers/) |  |
 | [Google Chrome](https://developer.chrome.com/apps/a11y#controls) |  |
 | [The Chromium Projects](https://www.chromium.org/developers/design-documents/accessibility#TOC-WAI-ARIA-Support) |  |
+| [Linkedin](https://www.linkedin.com/accessibility) |  |
 
 [목차로 이동](#목차)
 
