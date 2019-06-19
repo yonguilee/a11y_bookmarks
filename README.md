@@ -18,7 +18,7 @@ __Before reading__
 3. [온라인강좌](#온라인강좌)
 4. [커뮤니티](#커뮤니티)
 5. [세미나](#세미나)
-6. [출판물](#이북)
+6. [출판물](#)
 7. [블로그](#블로그)
 8. [아티클](#아티클)
 9. [가이드라인](#가이드라인)
@@ -27,6 +27,7 @@ __Before reading__
 12. [트위터](#트위터)
 13. [장애](#장애)
 14. [etc](#etc)
+
 
 ## 공식문서
 W3C 공식문서 관련 링크
@@ -52,6 +53,7 @@ __EN__
 
 [목차로 이동](#목차)
 
+
 ## 튜토리얼
 a11y 관련 예제 제공 사이트
 
@@ -70,8 +72,8 @@ __EN__
 | [The A11Y Project Patterns](https://a11yproject.com/patterns/) | The A11Y Project |  |
 | [WAI-ARIA tutorial](http://heydonworks.com/practical_aria_examples/) | Heydonworks |  |
 
-
 [목차로 이동](#목차)
+
 
 ## 온라인강좌
 a11y 관련 이론과 실습 강좌
@@ -101,8 +103,7 @@ __EN__
 | [Introduction to Web Accessibility](https://www.classcentral.com/course/canvas-network-introduction-to-web-accessibility-13329) | Ryerson University and Chang School of Continuing Education |  |
 | [Digital Accessibility : Enabling Participation in the Information Society](https://www.classcentral.com/course/futurelearn-digital-accessibility-enabling-participation-in-the-information-society-7127) | University of Southampton |  |
 | [Accessibility]( https://www.youtube.com/watch?v=o4xHfi4t9S0&list=PLWjCJDeWfDdcEtSnqq_iGLKGA_H_3o3y7) | Thomas Bradley |  |
-| [Accessibility at a Glance](https://www.youtube.com/playlist?list=PLtSVUgxIo6KqBBGqNdPQG64f-hTs1YxFM) | MSFTEnable
- |  |
+| [Accessibility at a Glance](https://www.youtube.com/playlist?list=PLtSVUgxIo6KqBBGqNdPQG64f-hTs1YxFM) | MSFTEnable |  |
 | [A11y cast](https://www.youtube.com/watch?v=Ag3DMNbL_ig&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) | Google Chrome Developer |  |
 | [Further Accessibility Learning](https://www.youtube.com/watch?v=nEjTbZXYY48&list=PLNYkxOF6rcIDJlkmUY8qoSV7PKSoBEEvp) | Google Chrome Developer |  |
 | [Web Accessibility for Developers](https://www.classcentral.com/course/canvas-network-web-accessibility-for-developers-11887) | Ryerson University and Chang School of Continuing Education |  |
@@ -110,6 +111,7 @@ __EN__
 
 
 [목차로 이동](#목차)
+
 
 ## 커뮤니티
 a11y 관련 커뮤니티
@@ -151,6 +153,7 @@ __EN__
 
 [목차로 이동](#목차)
 
+
 ## 출판물
 a11y 관련 출판물( E-Book 포함)
 
@@ -169,8 +172,10 @@ __EN__
 | [Just Ask : Integrating Accessibility Throughout Design](http://uiaccess.com/accessucd/) | Shawn Henry |  |
 | [Web Accessibility for Developers](https://pressbooks.library.ryerson.ca/wafd/) | Digital Education Strategies, The Chang School |  |
 | [Professional Web Accessibility Auditing Made Easy](https://pressbooks.library.ryerson.ca/pwaa/) | Digital Education Strategies, The Chang School |  |
+| [THE ABILITY HACKS](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2018/08/theabilityhacksbook.pdf) | Greg Shaw |  |
 
 [목차로 이동](#목차)
+
 
 ## 블로그
 a11y 관련 글 위주 블로그
@@ -179,13 +184,13 @@ __KO__
 
 | Name | Operator | Info |
 | -------- | -------- | -------- |
-| [NULI](https://nuli.navercorp.com/sharing/blog/main/3) | NTS |  |
+| [NULI](https://nuli.navercorp.com/sharing/blog/main/3) |  |  |
 | [한국웹접근성평가센터](http://www.kwacc.or.kr/Board/DataFile/List) |  |  |
 
 __EN__
 
 | Name | Operator | Info |
-| -------- | -------- | -------- |
+| -------- | -------- | ------ |
 | [Tink](https://tink.uk/category/code-things/) | LÉONIE WATSON |  |
 | [A11yproject](https://a11yproject.com/) |  |  |
 | [WebAIM](https://webaim.org/articles/) | Center for Persons with Disabilities Utah State University |  |
@@ -196,8 +201,11 @@ __EN__
 | [Uxcatlady](http://uxcatlady.com/inclusive_design.html) | UX Cat Lady | 페이지 하단 RESOURCE LIST 참고 |
 | [Fishyux](https://www.fishyux.com/tag/accessibility/) | Rachele DiTullio |  |
 | [IAAP](https://www.accessibilityassociation.org/content.asp?contentid=347) |  |  |
+| [deque](https://www.deque.com/blog/) |  |  |
+| [usablenet](https://blog.usablenet.com/topic/web-accessibility) |  |  |
 
 [목차로 이동](#목차)
+
 
 ## 아티클
 a11y 관련 글
@@ -208,7 +216,6 @@ __KO__
 | -------- | -------- | -------- |
 | [개발자를 위한 접근성 이야기](https://korea.googleblog.com/2019/04/accessibility-for-developers.html) | Google 한국 블로그 |  |
 
-
 __EN__
 
 | Name | Author | Info |
@@ -216,8 +223,8 @@ __EN__
 | [A simple introduction to web accessibility](https://www.creativebloq.com/netmag/simple-introduction-web-accessibility-7116888) | Netmag |  |
 | [Getting started with Website Accessibility](https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92) | Carie Fisher |  |
 | [Scaling Accessibility through LinkedIn Engineering's A11y Champions Program](https://engineering.linkedin.com/blog/2019/05/scaling-accessibility-through-a11y-champions-program) | Jennison Asuncion |  |
+| [Using AI to empower people with disabilities](https://blogs.microsoft.com/on-the-issues/2018/05/07/using-ai-to-empower-people-with-disabilities/) | Brad Smith |  |
 | [Reflections on LinkedIn’s Accessibility Journey in 2018](https://www.linkedin.com/pulse/reflections-linkedins-accessibility-journey-2018-jennison-asuncion/) | Jennison Asuncion |  |
-
 
 __번역__
 
@@ -225,8 +232,10 @@ __번역__
 | -------- | -------- | -------- |
 | [웹접근성을 고려한 HTML 작성하기](https://web-for-all.tistory.com/3) | Manuel Matuzovic |  |
 | [웹접근성을 고려한 CSS 작성하기](https://web-for-all.tistory.com/2) | Manuel Matuzovic |  |
+| [접근성 교육에서 자주 나오는 상위 5가지 질문](https://mulder21c.github.io/2019/04/25/top-5-questions-asked-in-accessibility-trainings/) | Carie Fisher |  |
 
 [목차로 이동](#목차)
+
 
 ## 가이드라인
 기업에서 제공하는 a11y 가이드라인
@@ -253,6 +262,7 @@ __EN__
 
 [목차로 이동](#목차)
 
+
 ## 평가도구
 a11y 평가도구
 
@@ -278,6 +288,7 @@ __EN__
 
 [목차로 이동](#목차)
 
+
 ## 트위터
 a11y 관련 트위터 계정 
 
@@ -298,6 +309,8 @@ __EN__
 | [@AaronGustafson](https://twitter.com/AaronGustafson) |  |
 | [@heydonworks](https://twitter.com/heydonworks) |  |
 
+[목차로 이동](#목차)
+
 
 ## 장애
 장애 관련 자료
@@ -308,10 +321,10 @@ __EN__
 | [WHO세계장애보고서 국문](https://apps.who.int/iris/bitstream/handle/10665/44575/9788990987150_kor.pdf;jsessionid=7135023BBD0F6550479787E85DB27789?sequence=5) |  |
 | [한국장애인개발원](https://www.koddi.or.kr/data/news.jsp) |  |
 | [비마이너](http://beminor.com/) |  |
-| [2018 장애인통계연보]( https://www.koddi.or.kr/data/research01_view.jsp?brdNum=7406583&brdTp=&searchParamUrl=brdType%3DRSH%26amp%3BbrdRshYnData%3Ddata%26amp%3Bpage%3D1%26amp%3BpageSize%3D20) |  |
+| [2018 장애인통계연보](https://www.koddi.or.kr/data/research01_view.jsp?brdNum=7406583&brdTp=&searchParamUrl=brdType%3DRSH%26amp%3BbrdRshYnData%3Ddata%26amp%3Bpage%3D1%26amp%3BpageSize%3D20) |  |
+| [WHO Assistive technology Fact Sheet](https://www.who.int/en/news-room/fact-sheets/detail/assistive-technology) |  |
 
 [목차로 이동](#목차)
-
 
 
 ## etc
