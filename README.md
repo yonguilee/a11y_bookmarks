@@ -101,7 +101,9 @@ __EN__
 | [Introduction to Web Accessibility](https://www.classcentral.com/course/canvas-network-introduction-to-web-accessibility-13329) | Ryerson University and Chang School of Continuing Education |  |
 | [Digital Accessibility : Enabling Participation in the Information Society](https://www.classcentral.com/course/futurelearn-digital-accessibility-enabling-participation-in-the-information-society-7127) | University of Southampton |  |
 | [Accessibility]( https://www.youtube.com/watch?v=o4xHfi4t9S0&list=PLWjCJDeWfDdcEtSnqq_iGLKGA_H_3o3y7) | Thomas Bradley |  |
-| [A11y cast]( https://www.youtube.com/watch?v=Ag3DMNbL_ig&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) | Google Chrome Developer |  |
+| [Accessibility at a Glance](https://www.youtube.com/playlist?list=PLtSVUgxIo6KqBBGqNdPQG64f-hTs1YxFM) | MSFTEnable
+ |  |
+| [A11y cast](https://www.youtube.com/watch?v=Ag3DMNbL_ig&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) | Google Chrome Developer |  |
 | [Further Accessibility Learning](https://www.youtube.com/watch?v=nEjTbZXYY48&list=PLNYkxOF6rcIDJlkmUY8qoSV7PKSoBEEvp) | Google Chrome Developer |  |
 | [Web Accessibility for Developers](https://www.classcentral.com/course/canvas-network-web-accessibility-for-developers-11887) | Ryerson University and Chang School of Continuing Education |  |
 | [Web Accessibility](https://dequeuniversity.com/curriculum/online-classes/) | Duque University | 유료 |
@@ -145,6 +147,7 @@ __EN__
 | [Accessibility at Google I/O 2019 Playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIOSO0eWuj-6yQmdakarUzN) | Google Developer |  |
 | [A11y talks Playlist](https://marcysutton.com/talks/) | Mercy Sutton |  |
 | [Accessibility at Developer Events Playlist](https://www.youtube.com/watch?v=wkvslBGkhZY&list=PLNYkxOF6rcIBiiuN53rzwEidPcLZRtiOW) | Google Chrome Developer |  |
+| [Accessibility Learning Webinar Series Playlist](https://www.youtube.com/playlist?list=PLtSVUgxIo6KpRN7i2QKqRYlqkA0Z_q3WC) | MSFTEnable |  |
 
 [목차로 이동](#목차)
 
@@ -185,8 +188,7 @@ __EN__
 | -------- | -------- | -------- |
 | [Tink](https://tink.uk/category/code-things/) | LÉONIE WATSON |  |
 | [A11yproject](https://a11yproject.com/) |  |  |
-| [WebAIM](https://webaim.org/articles/) | Center for Persons with Disabilities
-Utah State University |  |
+| [WebAIM](https://webaim.org/articles/) | Center for Persons with Disabilities Utah State University |  |
 | [Accessible Web Design](https://www.joedolson.com/blog/) | JOSEPH DOLSON |  |
 | [Digital A11Y](https://www.digitala11y.com/acccessibility-archives/) |  |  |
 | [Levelaccess](https://www.levelaccess.com/category/accessibility-best-practices/) |  |  |
@@ -247,6 +249,7 @@ __EN__
 | [Google Chrome](https://developer.chrome.com/apps/a11y#controls) |  |
 | [The Chromium Projects](https://www.chromium.org/developers/design-documents/accessibility#TOC-WAI-ARIA-Support) |  |
 | [Linkedin](https://www.linkedin.com/accessibility) |  |
+| [Microsoft](https://www.microsoft.com/en-us/accessibility) |  |
 
 [목차로 이동](#목차)
 
