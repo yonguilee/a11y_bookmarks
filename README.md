@@ -203,6 +203,7 @@ __EN__
 | [IAAP](https://www.accessibilityassociation.org/content.asp?contentid=347) |  |  |
 | [deque](https://www.deque.com/blog/) |  |  |
 | [usablenet](https://blog.usablenet.com/topic/web-accessibility) |  |  |
+| [Microsoft Inclusive Design](https://www.microsoft.com/design/articles/) |  |  |
 
 [목차로 이동](#목차)
 
@@ -225,6 +226,7 @@ __EN__
 | [Scaling Accessibility through LinkedIn Engineering's A11y Champions Program](https://engineering.linkedin.com/blog/2019/05/scaling-accessibility-through-a11y-champions-program) | Jennison Asuncion |  |
 | [Using AI to empower people with disabilities](https://blogs.microsoft.com/on-the-issues/2018/05/07/using-ai-to-empower-people-with-disabilities/) | Brad Smith |  |
 | [Reflections on LinkedIn’s Accessibility Journey in 2018](https://www.linkedin.com/pulse/reflections-linkedins-accessibility-journey-2018-jennison-asuncion/) | Jennison Asuncion |  |
+| [Making accessibility easy to learn, use, build and master](https://blogs.microsoft.com/on-the-issues/2019/05/15/making-accessibility-easy-to-learn-use-build-and-master/) | Jenny Lay-Flurrie |  |
 
 __번역__
 
