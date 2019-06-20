@@ -61,7 +61,7 @@ __KO__
 
 | Name | Operator | Info |
 | -------- | -------- | -------- |
-| [NULI UI 라이브러리](https://nuli.navercorp.com/sharing/ui/uioLayout) | NTS |  |
+| [NULI UI 라이브러리](https://nuli.navercorp.com/sharing/ui/uioLayout) |  |  |
 
 __EN__
 
@@ -148,8 +148,10 @@ __EN__
 | [A11y with Polymer(The Polymer Submmit 2015)](https://www.youtube.com/watch?v=o6yLWihykVA&list=PLmD4kjdybbrrWYNSs68rJO2z2gEODMg3X&index=14) | Google Chrome Developer |  |
 | [Accessibility at Google I/O 2019 Playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIOSO0eWuj-6yQmdakarUzN) | Google Developer |  |
 | [A11y talks Playlist](https://marcysutton.com/talks/) | Mercy Sutton |  |
+| [Technica11y Playlist](https://www.youtube.com/playlist?list=PLLuwoY7nxnR3AXdmA8JYdbjdFMKaereMr) | Tenon.io |  |
 | [Accessibility at Developer Events Playlist](https://www.youtube.com/watch?v=wkvslBGkhZY&list=PLNYkxOF6rcIBiiuN53rzwEidPcLZRtiOW) | Google Chrome Developer |  |
 | [Accessibility Learning Webinar Series Playlist](https://www.youtube.com/playlist?list=PLtSVUgxIo6KpRN7i2QKqRYlqkA0Z_q3WC) | MSFTEnable |  |
+| [Chicago Digital Accessibility & Inclusive Design](https://www.youtube.com/channel/UCIx02QBK-IGcIlN1hGkD5Qw/videos) |  |  |
 
 [목차로 이동](#목차)
 
@@ -200,6 +202,9 @@ __EN__
 | [UiAccess](http://www.uiaccess.com/resources.html) | Shawn Lawton Henry |  |
 | [Uxcatlady](http://uxcatlady.com/inclusive_design.html) | UX Cat Lady | 페이지 하단 RESOURCE LIST 참고 |
 | [Fishyux](https://www.fishyux.com/tag/accessibility/) | Rachele DiTullio |  |
+| [A11y with Lindsey](https://www.a11ywithlindsey.com/blog) | Lindsey |  |
+| [Adrian Roselli](http://adrianroselli.com/tag/accessibility) | Adrian Roselli |  |
+| [Manuel Matuzovic](https://www.matuzo.at/) | Manuel Matuzovic |  |
 | [IAAP](https://www.accessibilityassociation.org/content.asp?contentid=347) |  |  |
 | [deque](https://www.deque.com/blog/) |  |  |
 | [usablenet](https://blog.usablenet.com/topic/web-accessibility) |  |  |
