@@ -50,6 +50,7 @@ __EN__
 | [WCAG 2.1](https://www.w3.org/TR/WCAG21/) | :seedling: |
 | [WAI-ARIA](https://www.w3.org/TR/wai-aria/) | :seedling: |
 | [A11y 교육자료](https://www.w3.org/WAI/teach-advocate/accessibility-training/) |  |
+| [How to Meet WCAG](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize#orientation) | 필터링을 통해 상황에 맞는 요소들 참고 가능 |
 
 [목차로 이동](#목차)
 
@@ -104,6 +105,7 @@ __EN__
 | [Digital Accessibility : Enabling Participation in the Information Society](https://www.classcentral.com/course/futurelearn-digital-accessibility-enabling-participation-in-the-information-society-7127) | University of Southampton |  |
 | [Accessibility]( https://www.youtube.com/watch?v=o4xHfi4t9S0&list=PLWjCJDeWfDdcEtSnqq_iGLKGA_H_3o3y7) | Thomas Bradley |  |
 | [Accessibility at a Glance](https://www.youtube.com/playlist?list=PLtSVUgxIo6KqBBGqNdPQG64f-hTs1YxFM) | MSFTEnable |  |
+| [UCLA DCP](https://www.youtube.com/channel/UCbtfS-HGD1CKqe1EHIXtJRw) |  |  |
 | [A11y cast](https://www.youtube.com/watch?v=Ag3DMNbL_ig&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) | Google Chrome Developer |  |
 | [Further Accessibility Learning](https://www.youtube.com/watch?v=nEjTbZXYY48&list=PLNYkxOF6rcIDJlkmUY8qoSV7PKSoBEEvp) | Google Chrome Developer |  |
 | [Web Accessibility for Developers](https://www.classcentral.com/course/canvas-network-web-accessibility-for-developers-11887) | Ryerson University and Chang School of Continuing Education |  |
@@ -152,6 +154,8 @@ __EN__
 | [Accessibility at Developer Events Playlist](https://www.youtube.com/watch?v=wkvslBGkhZY&list=PLNYkxOF6rcIBiiuN53rzwEidPcLZRtiOW) | Google Chrome Developer |  |
 | [Accessibility Learning Webinar Series Playlist](https://www.youtube.com/playlist?list=PLtSVUgxIo6KpRN7i2QKqRYlqkA0Z_q3WC) | MSFTEnable |  |
 | [Chicago Digital Accessibility & Inclusive Design](https://www.youtube.com/channel/UCIx02QBK-IGcIlN1hGkD5Qw/videos) |  |  |
+| [Accessibility and Inclusive Design with Derek Featherstone](https://share.transistor.fm/s/750b1a57) | DESIGN BY COMMITTEE  | 팟캐스트 |
+| [deque](https://www.deque.com/resources/format/webinar/) | deque system  | 원하는 세미나 선택해서 개인정보 입력후 시청가능 |
 
 [목차로 이동](#목차)
 
@@ -175,6 +179,8 @@ __EN__
 | [Web Accessibility for Developers](https://pressbooks.library.ryerson.ca/wafd/) | Digital Education Strategies, The Chang School |  |
 | [Professional Web Accessibility Auditing Made Easy](https://pressbooks.library.ryerson.ca/pwaa/) | Digital Education Strategies, The Chang School |  |
 | [THE ABILITY HACKS](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2018/08/theabilityhacksbook.pdf) | Greg Shaw |  |
+| [AccessAbility: A practical Handbook on Accessible Graphic Design](https://www.rgd.ca/database/files/library/RGD_AccessAbility_Handbook.pdf) | Ontario |  |
+| [Towards an Accessible Future: Ontario Innovators in Accessibility and Universal Design](https://www.marsdd.com/wp-content/uploads/2014/01/Towards-an-Accessible-Future-Ontario-Innovators-in-Accessibility-and-Universal-Design1.pdf) | Ontario |  |
 
 [목차로 이동](#목차)
 
@@ -209,6 +215,9 @@ __EN__
 | [deque](https://www.deque.com/blog/) |  |  |
 | [usablenet](https://blog.usablenet.com/topic/web-accessibility) |  |  |
 | [Microsoft Inclusive Design](https://www.microsoft.com/design/articles/) |  |  |
+| [UXMYTHS](https://uxmyths.com/) |  |  |
+| [e-Accessibility Policy Toolkit for Persons with Disabilities](http://www.e-accessibilitytoolkit.org/toolkit/eaccessibility_basics) |  |  |
+| [HELPFUL DOCUMENT ACCESSIBILITY RESOURCES](https://dcp.ucla.edu/helpful-document-accessibility-resources) |  |  |
 
 [목차로 이동](#목차)
 
