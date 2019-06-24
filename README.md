@@ -266,6 +266,7 @@ __EN__
 | [The Chromium Projects](https://www.chromium.org/developers/design-documents/accessibility#TOC-WAI-ARIA-Support) |  |
 | [Linkedin](https://www.linkedin.com/accessibility) |  |
 | [Microsoft](https://www.microsoft.com/en-us/accessibility) |  |
+| [APPLE](https://www.apple.com/ca/accessibility/) |  |
 
 [목차로 이동](#목차)
 
