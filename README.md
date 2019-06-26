@@ -156,6 +156,7 @@ __EN__
 | [Accessibility Learning Webinar Series Playlist](https://www.youtube.com/playlist?list=PLtSVUgxIo6KpRN7i2QKqRYlqkA0Z_q3WC) | MSFTEnable |  |
 | [Chicago Digital Accessibility & Inclusive Design](https://www.youtube.com/channel/UCIx02QBK-IGcIlN1hGkD5Qw/videos) |  |  |
 | [Accessibility and Inclusive Design with Derek Featherstone](https://share.transistor.fm/s/750b1a57) | DESIGN BY COMMITTEE  | 팟캐스트 |
+| [The Web Head Accessibility](http://thewebahead.net/topic/accessibility) | The Web Head | 팟캐스트 |
 | [deque](https://www.deque.com/resources/format/webinar/) | deque system  | 원하는 세미나 선택해서 개인정보 입력후 시청가능 |
 
 [목차로 이동](#목차)
