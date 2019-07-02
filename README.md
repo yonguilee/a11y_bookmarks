@@ -157,6 +157,8 @@ __EN__
 | [Chicago Digital Accessibility & Inclusive Design](https://www.youtube.com/channel/UCIx02QBK-IGcIlN1hGkD5Qw/videos) |  |  |
 | [Accessibility and Inclusive Design with Derek Featherstone](https://share.transistor.fm/s/750b1a57) | DESIGN BY COMMITTEE  | 팟캐스트 |
 | [The Web Ahead Accessibility](http://thewebahead.net/topic/accessibility) | The Web Ahead | 팟캐스트 |
+| [What to include on the accessibility help page on your website](https://abilitynet.org.uk/webinars/what-include-accessibility-help-page-your-website) | AbilityNet |  |
+| [Web Components and the AOM](https://www.youtube.com/watch?v=ZMZMMuXRFcE) | JSConf |  |
 | [deque](https://www.deque.com/resources/format/webinar/) | deque system  | 원하는 세미나 선택해서 개인정보 입력후 시청가능 |
 
 [목차로 이동](#목차)
@@ -243,6 +245,11 @@ __EN__
 | [Using AI to empower people with disabilities](https://blogs.microsoft.com/on-the-issues/2018/05/07/using-ai-to-empower-people-with-disabilities/) | Brad Smith |  |
 | [Reflections on LinkedIn’s Accessibility Journey in 2018](https://www.linkedin.com/pulse/reflections-linkedins-accessibility-journey-2018-jennison-asuncion/) | Jennison Asuncion |  |
 | [Making accessibility easy to learn, use, build and master](https://blogs.microsoft.com/on-the-issues/2019/05/15/making-accessibility-easy-to-learn-use-build-and-master/) | Jenny Lay-Flurrie |  |
+| [How accessibility trees inform assistive tech](https://hacks.mozilla.org/2019/06/how-accessibility-trees-inform-assistive-tech/) | Hidde de Vries |  |
+| [Accessibility APIs: A Key To Web Accessibility](https://www.smashingmagazine.com/2015/03/web-accessibility-with-accessibility-api/) | Léonie Watson |  |
+| [Tables, CSS Display Properties, and ARIA](http://adrianroselli.com/2018/02/tables-css-display-properties-and-aria.html) | Adrian Roselli |  |
+| [Grid, content re-ordering and accessibility](https://rachelandrew.co.uk/archives/2019/06/04/grid-content-re-ordering-and-accessibility/) | Rachel Andrew |  |
+| [How a new wave of accessibility tech is bringing benefits to all](https://www.theguardian.com/tech-that-empowers-everyone/2019/may/30/how-a-new-wave-of-accessibility-tech-is-bringing-benefits-to-all) | theguardian |  |
 
 __번역__
 
