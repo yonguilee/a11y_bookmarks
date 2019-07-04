@@ -222,6 +222,7 @@ __EN__
 | [UXMYTHS](https://uxmyths.com/) |  |  |
 | [e-Accessibility Policy Toolkit for Persons with Disabilities](http://www.e-accessibilitytoolkit.org/toolkit/eaccessibility_basics) |  |  |
 | [HELPFUL DOCUMENT ACCESSIBILITY RESOURCES](https://dcp.ucla.edu/helpful-document-accessibility-resources) |  |  |
+| [hiddedevries.nl](https://hiddedevries.nl/en/blog/) |  |  |
 
 [목차로 이동](#목차)
 
