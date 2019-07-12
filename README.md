@@ -185,6 +185,7 @@ __EN__
 | [THE ABILITY HACKS](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2018/08/theabilityhacksbook.pdf) | Greg Shaw |  |
 | [AccessAbility: A practical Handbook on Accessible Graphic Design](https://www.rgd.ca/database/files/library/RGD_AccessAbility_Handbook.pdf) | Ontario |  |
 | [Towards an Accessible Future: Ontario Innovators in Accessibility and Universal Design](https://www.marsdd.com/wp-content/uploads/2014/01/Towards-an-Accessible-Future-Ontario-Innovators-in-Accessibility-and-Universal-Design1.pdf) | Ontario |  |
+| [Inclusive Components](https://inclusive-components.design/#components) | Heydon Pickering |  |
 
 [목차로 이동](#목차)
 
@@ -223,6 +224,8 @@ __EN__
 | [e-Accessibility Policy Toolkit for Persons with Disabilities](http://www.e-accessibilitytoolkit.org/toolkit/eaccessibility_basics) |  |  |
 | [HELPFUL DOCUMENT ACCESSIBILITY RESOURCES](https://dcp.ucla.edu/helpful-document-accessibility-resources) |  |  |
 | [hiddedevries.nl](https://hiddedevries.nl/en/blog/) |  |  |
+| [Accessibility Developer Guide](https://www.accessibility-developer-guide.com/) |  |  |
+| [A List Apart](https://alistapart.com/blog/topic/accessibility/) |  |  |
 
 [목차로 이동](#목차)
 
@@ -251,6 +254,7 @@ __EN__
 | [Tables, CSS Display Properties, and ARIA](http://adrianroselli.com/2018/02/tables-css-display-properties-and-aria.html) | Adrian Roselli |  |
 | [Grid, content re-ordering and accessibility](https://rachelandrew.co.uk/archives/2019/06/04/grid-content-re-ordering-and-accessibility/) | Rachel Andrew |  |
 | [How a new wave of accessibility tech is bringing benefits to all](https://www.theguardian.com/tech-that-empowers-everyone/2019/may/30/how-a-new-wave-of-accessibility-tech-is-bringing-benefits-to-all) | theguardian |  |
+| [5 code improvements you can apply today to make your website more accessible](https://medium.com/design-signals/5-code-improvements-you-can-apply-today-to-make-your-website-more-accessible-9e6e36cb18a0) | René Stalder |  |
 
 __번역__
 
