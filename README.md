@@ -69,7 +69,7 @@ __EN__
 | Name | Operator | Info |
 | -------- | -------- | -------- |
 | [WCAG tutorials](https://www.w3.org/WAI/tutorials/images/) | W3C |  |
-| [MDN WAI-ARIA](https://developer.mozilla.org/ko/docs/Web/Accessibility/ARIA) | Mozlia |  |
+| [MDN Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility) | Mozlia |  |
 | [The A11Y Project Patterns](https://a11yproject.com/patterns/) | The A11Y Project |  |
 | [WAI-ARIA tutorial](http://heydonworks.com/practical_aria_examples/) | Heydonworks |  |
 | [freeCodeCamp](https://learn.freecodecamp.org/) | freeCodeCamp | 'Applied Accessibility' 부분 참고 |
